@@ -1,0 +1,15 @@
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/bin/Debug/net6.0/Homework
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/bin/Debug/net6.0/Homework.deps.json
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/bin/Debug/net6.0/Homework.runtimeconfig.json
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/bin/Debug/net6.0/Homework.dll
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/bin/Debug/net6.0/Homework.pdb
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.dll
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/refint/Homework.dll
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.pdb
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/Homework.genruntimeconfig.cache
+/Volumes/Samsung_T5/Учеба/IT/C#/home work/5/Homework/obj/Debug/net6.0/ref/Homework.dll
